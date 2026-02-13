@@ -6,7 +6,7 @@
 /*   By: gigarcia <gigarcia@student.42madrid.c      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/01/18 17:58:01 by gigarcia          #+#    #+#             */
-/*   Updated: 2026/02/13 23:16:35 by gigarcia         ###   ########.fr       */
+/*   Updated: 2026/02/13 23:35:08 by gigarcia         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,6 +18,7 @@
 # include <stddef.h>
 # include <stdio.h>
 # include <limits.h>
+# include <stdint.h>
 
 typedef struct s_list
 {
